@@ -482,3 +482,4 @@
 - 2026-09-19: Adjust content
 - 2026-08-15: Polish docs
 - 2026-06-27: Expand section
+- 2026-12-07: Fix example
