@@ -5,3 +5,4 @@
 - 2015-05-07: Review content
 - 2015-05-11: Add remark
 - 2015-11-04: Clarify section
+- 2015-01-09: Small fix
