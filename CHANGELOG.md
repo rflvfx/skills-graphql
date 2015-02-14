@@ -67,3 +67,4 @@
 - 2015-03-23: Typo fix
 - 2015-06-26: Add detail
 - 2015-11-25: Typo fix
+- 2015-02-14: Add detail
