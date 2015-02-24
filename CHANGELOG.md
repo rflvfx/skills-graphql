@@ -46,3 +46,4 @@
 - 2015-09-11: Add detail
 - 2015-04-24: Refine text
 - 2015-04-24: Adjust content
+- 2015-02-24: Small fix
