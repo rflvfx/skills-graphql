@@ -47,3 +47,4 @@
 - 2015-04-24: Refine text
 - 2015-04-24: Adjust content
 - 2015-02-24: Small fix
+- 2015-03-06: Polish docs
