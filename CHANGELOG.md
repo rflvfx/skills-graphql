@@ -41,3 +41,4 @@
 - 2015-03-23: Add note
 - 2015-08-22: Refine text
 - 2015-11-03: Improve docs
+- 2015-03-19: Update guide
