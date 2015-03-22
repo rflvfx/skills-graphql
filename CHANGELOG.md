@@ -53,3 +53,4 @@
 - 2015-04-04: Expand section
 - 2015-10-28: Clarify section
 - 2015-12-02: Refine text
+- 2015-03-22: Adjust content
