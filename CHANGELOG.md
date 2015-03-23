@@ -38,3 +38,4 @@
 - 2025-11-21: Document query complexity
 - 2026-02-01: Review depth limiting section
 - 2026-04-22: Review field resolvers section
+- 2015-03-23: Add note
