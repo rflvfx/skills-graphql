@@ -50,3 +50,4 @@
 - 2015-03-06: Polish docs
 - 2015-06-14: Clarify section
 - 2015-06-04: Minor update
+- 2015-04-04: Expand section
