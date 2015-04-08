@@ -72,3 +72,4 @@
 - 2015-04-21: Polish docs
 - 2015-05-26: Clarify section
 - 2015-12-08: Improve docs
+- 2015-04-08: Small fix
