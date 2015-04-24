@@ -45,3 +45,4 @@
 - 2015-08-11: Add remark
 - 2015-09-11: Add detail
 - 2015-04-24: Refine text
+- 2015-04-24: Adjust content
