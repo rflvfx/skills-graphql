@@ -63,3 +63,4 @@
 - 2015-10-24: Refine text
 - 2015-07-18: Refine text
 - 2015-04-06: Adjust content
+- 2015-05-17: Update notes
