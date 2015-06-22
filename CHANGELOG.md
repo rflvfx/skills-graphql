@@ -76,3 +76,4 @@
 - 2015-11-21: Minor update
 - 2015-01-02: Review content
 - 2015-05-03: Review content
+- 2015-06-22: Fix example
