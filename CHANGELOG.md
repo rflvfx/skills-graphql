@@ -65,3 +65,4 @@
 - 2015-04-06: Adjust content
 - 2015-05-17: Update notes
 - 2015-03-23: Typo fix
+- 2015-06-26: Add detail
