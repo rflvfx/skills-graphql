@@ -39,3 +39,4 @@
 - 2026-02-01: Review depth limiting section
 - 2026-04-22: Review field resolvers section
 - 2015-03-23: Add note
+- 2015-08-22: Refine text
