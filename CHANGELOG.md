@@ -59,3 +59,4 @@
 - 2015-10-15: Polish docs
 - 2015-12-17: Refine text
 - 2015-10-17: Add detail
+- 2015-08-22: Polish docs
