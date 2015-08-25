@@ -8,3 +8,4 @@
 - 2015-01-09: Small fix
 - 2015-11-04: Review content
 - 2015-08-27: Update notes
+- 2015-08-25: Add note
