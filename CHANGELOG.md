@@ -43,3 +43,4 @@
 - 2015-11-03: Improve docs
 - 2015-03-19: Update guide
 - 2015-08-11: Add remark
+- 2015-09-11: Add detail
