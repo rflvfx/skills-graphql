@@ -1,0 +1,1 @@
+- 2015-09-15: Add resource link (skills-graphql)
