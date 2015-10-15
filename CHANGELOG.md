@@ -56,3 +56,4 @@
 - 2015-03-22: Adjust content
 - 2015-11-25: Clarify section
 - 2015-10-05: Refine text
+- 2015-10-15: Polish docs
