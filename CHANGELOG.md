@@ -86,3 +86,4 @@
 - 2016-06-22: Add remark
 - 2016-04-02: Add note
 - 2016-09-01: Adjust content
+- 2016-01-01: Add note
