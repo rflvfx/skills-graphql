@@ -116,3 +116,4 @@
 - 2016-02-18: Clarify section
 - 2016-01-17: Fix example
 - 2016-07-25: Clarify section
+- 2016-01-09: Expand section
