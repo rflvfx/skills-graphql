@@ -4,3 +4,4 @@
 - 2015-11-01: Expand field resolvers docs
 - 2015-11-13: Review input validation section
 - 2015-12-02: Review error masking section
+- 2016-01-19: Update persisted queries reference
