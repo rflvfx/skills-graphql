@@ -102,3 +102,4 @@
 - 2016-04-03: Refine text
 - 2016-01-26: Minor update
 - 2016-07-03: Fix example
+- 2016-01-19: Refine text
