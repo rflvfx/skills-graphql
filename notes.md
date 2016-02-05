@@ -17,3 +17,4 @@
 - 2016-03-18: Update guide
 - 2016-12-03: Expand section
 - 2016-03-13: Update notes
+- 2016-02-05: Typo fix
