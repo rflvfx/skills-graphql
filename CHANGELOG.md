@@ -5,3 +5,4 @@
 - 2015-11-13: Review input validation section
 - 2015-12-02: Review error masking section
 - 2016-01-19: Update persisted queries reference
+- 2016-02-13: Refine federation notes guide
