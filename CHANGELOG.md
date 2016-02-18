@@ -113,3 +113,4 @@
 - 2016-03-10: Minor update
 - 2016-06-28: Refine text
 - 2016-04-21: Update notes
+- 2016-02-18: Clarify section
