@@ -82,3 +82,4 @@
 - 2015-08-19: Minor update
 - 2015-06-26: Fix example
 - 2016-06-16: Adjust content
+- 2016-03-05: Update guide
