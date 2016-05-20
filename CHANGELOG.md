@@ -98,3 +98,4 @@
 - 2016-10-27: Add note
 - 2016-01-25: Update notes
 - 2016-09-25: Improve docs
+- 2016-05-20: Small fix
