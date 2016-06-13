@@ -19,3 +19,4 @@
 - 2016-03-13: Update notes
 - 2016-02-05: Typo fix
 - 2016-07-20: Polish docs
+- 2016-06-13: Fix example
