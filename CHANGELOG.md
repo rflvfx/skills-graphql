@@ -81,3 +81,4 @@
 - 2015-07-25: Add remark
 - 2015-08-19: Minor update
 - 2015-06-26: Fix example
+- 2016-06-16: Adjust content
