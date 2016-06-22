@@ -83,3 +83,4 @@
 - 2015-06-26: Fix example
 - 2016-06-16: Adjust content
 - 2016-03-05: Update guide
+- 2016-06-22: Add remark
