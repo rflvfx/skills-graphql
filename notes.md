@@ -11,3 +11,4 @@
 - 2015-08-25: Add note
 - 2015-11-13: Adjust content
 - 2015-04-07: Typo fix
+- 2016-07-10: Update notes
