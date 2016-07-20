@@ -18,3 +18,4 @@
 - 2016-12-03: Expand section
 - 2016-03-13: Update notes
 - 2016-02-05: Typo fix
+- 2016-07-20: Polish docs
