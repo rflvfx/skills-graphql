@@ -124,3 +124,4 @@
 - 2016-11-26: Review content
 - 2016-05-25: Improve docs
 - 2016-06-28: Expand section
+- 2016-08-02: Refine text
