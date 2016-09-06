@@ -120,3 +120,4 @@
 - 2016-10-26: Update notes
 - 2016-11-07: Expand section
 - 2016-09-20: Polish docs
+- 2016-09-06: Add note
