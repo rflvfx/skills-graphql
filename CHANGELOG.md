@@ -90,3 +90,4 @@
 - 2016-12-05: Update guide
 - 2016-11-15: Small fix
 - 2016-01-05: Add detail
+- 2016-09-27: Refine text
