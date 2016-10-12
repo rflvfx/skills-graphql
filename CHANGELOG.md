@@ -109,3 +109,4 @@
 - 2016-09-06: Review content
 - 2016-03-13: Minor update
 - 2016-10-01: Add note
+- 2016-10-12: Update guide
