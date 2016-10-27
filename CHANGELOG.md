@@ -95,3 +95,4 @@
 - 2016-11-07: Update notes
 - 2016-09-28: Minor update
 - 2016-02-26: Adjust content
+- 2016-10-27: Add note
