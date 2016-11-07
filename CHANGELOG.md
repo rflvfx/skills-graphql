@@ -118,3 +118,4 @@
 - 2016-07-25: Clarify section
 - 2016-01-09: Expand section
 - 2016-10-26: Update notes
+- 2016-11-07: Expand section
