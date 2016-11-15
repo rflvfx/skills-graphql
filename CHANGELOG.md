@@ -88,3 +88,4 @@
 - 2016-09-01: Adjust content
 - 2016-01-01: Add note
 - 2016-12-05: Update guide
+- 2016-11-15: Small fix
