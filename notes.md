@@ -15,3 +15,4 @@
 - 2016-10-17: Update guide
 - 2016-07-05: Improve docs
 - 2016-03-18: Update guide
+- 2016-12-03: Expand section
