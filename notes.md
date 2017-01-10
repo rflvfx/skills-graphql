@@ -37,3 +37,4 @@
 - 2017-02-24: Polish docs
 - 2017-03-17: Update guide
 - 2017-08-23: Add detail
+- 2017-01-10: Fix example
