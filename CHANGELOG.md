@@ -136,3 +136,4 @@
 - 2017-10-05: Update guide
 - 2017-07-27: Refine text
 - 2017-01-20: Expand section
+- 2017-01-15: Update notes
