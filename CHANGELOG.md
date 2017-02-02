@@ -143,3 +143,4 @@
 - 2017-08-12: Minor update
 - 2017-12-04: Add detail
 - 2017-01-17: Improve docs
+- 2017-02-02: Improve docs
