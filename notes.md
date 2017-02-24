@@ -34,3 +34,4 @@
 - 2017-11-18: Adjust content
 - 2017-04-02: Update guide
 - 2017-12-24: Minor update
+- 2017-02-24: Polish docs
