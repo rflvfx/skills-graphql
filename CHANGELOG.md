@@ -127,3 +127,4 @@
 - 2016-08-02: Refine text
 - 2017-03-12: Fix example
 - 2017-08-21: Add detail
+- 2017-02-27: Small fix
