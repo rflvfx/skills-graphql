@@ -154,3 +154,4 @@
 - 2017-09-21: Expand section
 - 2017-06-01: Typo fix
 - 2017-06-05: Typo fix
+- 2017-03-09: Adjust content
