@@ -35,3 +35,4 @@
 - 2017-04-02: Update guide
 - 2017-12-24: Minor update
 - 2017-02-24: Polish docs
+- 2017-03-17: Update guide
