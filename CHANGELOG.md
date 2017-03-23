@@ -129,3 +129,4 @@
 - 2017-08-21: Add detail
 - 2017-02-27: Small fix
 - 2017-07-07: Add remark
+- 2017-03-23: Improve docs
