@@ -32,3 +32,4 @@
 - 2017-08-15: Add remark
 - 2017-02-23: Update guide
 - 2017-11-18: Adjust content
+- 2017-04-02: Update guide
