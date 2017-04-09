@@ -144,3 +144,4 @@
 - 2017-12-04: Add detail
 - 2017-01-17: Improve docs
 - 2017-02-02: Improve docs
+- 2017-04-09: Add note
