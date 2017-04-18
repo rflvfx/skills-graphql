@@ -132,3 +132,4 @@
 - 2017-03-23: Improve docs
 - 2017-12-01: Fix example
 - 2017-05-07: Review content
+- 2017-04-18: Small fix
