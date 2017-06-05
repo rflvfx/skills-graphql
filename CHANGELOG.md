@@ -153,3 +153,4 @@
 - 2017-07-16: Polish docs
 - 2017-09-21: Expand section
 - 2017-06-01: Typo fix
+- 2017-06-05: Typo fix
