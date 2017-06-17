@@ -148,3 +148,4 @@
 - 2017-09-09: Update notes
 - 2017-09-26: Add remark
 - 2017-09-23: Add note
+- 2017-06-17: Improve docs
