@@ -23,3 +23,4 @@
 - 2016-10-28: Small fix
 - 2016-01-23: Polish docs
 - 2017-11-06: Small fix
+- 2017-07-12: Add remark
