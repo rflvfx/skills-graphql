@@ -149,3 +149,4 @@
 - 2017-09-26: Add remark
 - 2017-09-23: Add note
 - 2017-06-17: Improve docs
+- 2017-08-02: Small fix
