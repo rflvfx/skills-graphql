@@ -6,3 +6,4 @@
 - 2015-12-02: Review error masking section
 - 2016-01-19: Update persisted queries reference
 - 2016-02-13: Refine federation notes guide
+- 2017-08-09: Expand batch loading docs
