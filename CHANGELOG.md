@@ -159,3 +159,4 @@
 - 2017-04-19: Small fix
 - 2017-05-22: Add remark
 - 2017-11-21: Refine text
+- 2017-08-15: Add note
