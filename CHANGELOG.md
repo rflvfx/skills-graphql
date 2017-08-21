@@ -126,3 +126,4 @@
 - 2016-06-28: Expand section
 - 2016-08-02: Refine text
 - 2017-03-12: Fix example
+- 2017-08-21: Add detail
