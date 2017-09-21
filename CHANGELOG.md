@@ -151,3 +151,4 @@
 - 2017-06-17: Improve docs
 - 2017-08-02: Small fix
 - 2017-07-16: Polish docs
+- 2017-09-21: Expand section
