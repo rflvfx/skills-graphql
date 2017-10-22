@@ -7,3 +7,4 @@
 - 2016-01-19: Update persisted queries reference
 - 2016-02-13: Refine federation notes guide
 - 2017-08-09: Expand batch loading docs
+- 2017-10-22: Document cache hints
