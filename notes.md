@@ -27,3 +27,4 @@
 - 2017-11-13: Add remark
 - 2017-08-28: Add detail
 - 2017-03-12: Add detail
+- 2017-10-25: Expand section
