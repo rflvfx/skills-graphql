@@ -22,3 +22,4 @@
 - 2016-06-13: Fix example
 - 2016-10-28: Small fix
 - 2016-01-23: Polish docs
+- 2017-11-06: Small fix
