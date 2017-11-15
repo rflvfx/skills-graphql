@@ -28,3 +28,4 @@
 - 2017-08-28: Add detail
 - 2017-03-12: Add detail
 - 2017-10-25: Expand section
+- 2017-11-15: Expand section
