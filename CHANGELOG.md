@@ -130,3 +130,4 @@
 - 2017-02-27: Small fix
 - 2017-07-07: Add remark
 - 2017-03-23: Improve docs
+- 2017-12-01: Fix example
