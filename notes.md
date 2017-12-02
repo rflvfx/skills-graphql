@@ -38,3 +38,4 @@
 - 2017-03-17: Update guide
 - 2017-08-23: Add detail
 - 2017-01-10: Fix example
+- 2017-12-02: Clarify section
