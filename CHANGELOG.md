@@ -198,3 +198,4 @@
 - 2018-05-15: Add remark
 - 2018-04-19: Adjust content
 - 2018-07-16: Improve docs
+- 2018-02-04: Add note
