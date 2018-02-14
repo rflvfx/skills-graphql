@@ -193,3 +193,4 @@
 - 2018-09-09: Polish docs
 - 2018-06-26: Add detail
 - 2018-11-23: Add note
+- 2018-02-14: Small fix
