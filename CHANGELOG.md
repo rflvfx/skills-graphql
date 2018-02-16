@@ -184,3 +184,4 @@
 - 2018-03-20: Fix example
 - 2018-04-24: Expand section
 - 2018-01-21: Typo fix
+- 2018-02-16: Typo fix
