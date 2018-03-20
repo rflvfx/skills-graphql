@@ -181,3 +181,4 @@
 - 2018-10-21: Minor update
 - 2018-11-20: Small fix
 - 2018-10-24: Add remark
+- 2018-03-20: Fix example
