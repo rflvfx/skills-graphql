@@ -8,3 +8,4 @@
 - 2016-02-13: Refine federation notes guide
 - 2017-08-09: Expand batch loading docs
 - 2017-10-22: Document cache hints
+- 2018-03-26: Update pagination cursors reference
