@@ -196,3 +196,4 @@
 - 2018-02-14: Small fix
 - 2018-01-26: Fix example
 - 2018-05-15: Add remark
+- 2018-04-19: Adjust content
