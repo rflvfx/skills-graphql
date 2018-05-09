@@ -189,3 +189,4 @@
 - 2018-03-05: Expand section
 - 2018-12-16: Add remark
 - 2018-11-16: Typo fix
+- 2018-05-09: Add detail
