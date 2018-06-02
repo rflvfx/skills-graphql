@@ -47,3 +47,4 @@
 - 2018-10-09: Polish docs
 - 2018-12-10: Improve docs
 - 2018-11-24: Adjust content
+- 2018-06-02: Update guide
