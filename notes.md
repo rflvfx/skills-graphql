@@ -50,3 +50,4 @@
 - 2018-06-02: Update guide
 - 2018-05-23: Add note
 - 2018-07-15: Improve docs
+- 2018-06-14: Adjust content
