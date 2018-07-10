@@ -169,3 +169,4 @@
 - 2018-08-09: Update guide
 - 2018-01-18: Fix example
 - 2018-02-23: Review content
+- 2018-07-10: Review content
