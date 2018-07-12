@@ -200,3 +200,4 @@
 - 2018-07-16: Improve docs
 - 2018-02-04: Add note
 - 2018-01-03: Add note
+- 2018-07-12: Adjust content
