@@ -177,3 +177,4 @@
 - 2018-09-08: Update guide
 - 2018-07-27: Update guide
 - 2018-08-03: Refine text
+- 2018-07-13: Improve docs
