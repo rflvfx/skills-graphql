@@ -49,3 +49,4 @@
 - 2018-11-24: Adjust content
 - 2018-06-02: Update guide
 - 2018-05-23: Add note
+- 2018-07-15: Improve docs
