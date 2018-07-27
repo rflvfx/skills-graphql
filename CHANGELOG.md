@@ -175,3 +175,4 @@
 - 2018-12-12: Add detail
 - 2018-06-22: Review content
 - 2018-09-08: Update guide
+- 2018-07-27: Update guide
