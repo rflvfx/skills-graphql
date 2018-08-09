@@ -166,3 +166,4 @@
 - 2018-08-08: Add note
 - 2018-05-17: Update notes
 - 2018-03-17: Update notes
+- 2018-08-09: Update guide
