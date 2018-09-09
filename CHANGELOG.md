@@ -190,3 +190,4 @@
 - 2018-12-16: Add remark
 - 2018-11-16: Typo fix
 - 2018-05-09: Add detail
+- 2018-09-09: Polish docs
