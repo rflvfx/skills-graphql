@@ -161,3 +161,4 @@
 - 2017-11-21: Refine text
 - 2017-08-15: Add note
 - 2017-07-20: Minor update
+- 2018-10-22: Fix example
