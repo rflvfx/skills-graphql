@@ -180,3 +180,4 @@
 - 2018-07-13: Improve docs
 - 2018-10-21: Minor update
 - 2018-11-20: Small fix
+- 2018-10-24: Add remark
