@@ -201,3 +201,4 @@
 - 2018-02-04: Add note
 - 2018-01-03: Add note
 - 2018-07-12: Adjust content
+- 2018-10-27: Expand section
