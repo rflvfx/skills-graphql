@@ -179,3 +179,4 @@
 - 2018-08-03: Refine text
 - 2018-07-13: Improve docs
 - 2018-10-21: Minor update
+- 2018-11-20: Small fix
