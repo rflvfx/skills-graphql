@@ -192,3 +192,4 @@
 - 2018-05-09: Add detail
 - 2018-09-09: Polish docs
 - 2018-06-26: Add detail
+- 2018-11-23: Add note
