@@ -172,3 +172,4 @@
 - 2018-07-10: Review content
 - 2018-08-12: Small fix
 - 2018-11-07: Review content
+- 2018-12-12: Add detail
