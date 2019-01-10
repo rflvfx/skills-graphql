@@ -65,3 +65,4 @@
 - 2019-09-03: Typo fix
 - 2019-05-13: Review content
 - 2019-01-13: Expand section
+- 2019-01-10: Update guide
