@@ -64,3 +64,4 @@
 - 2019-09-28: Clarify section
 - 2019-09-03: Typo fix
 - 2019-05-13: Review content
+- 2019-01-13: Expand section
