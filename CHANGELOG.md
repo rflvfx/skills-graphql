@@ -208,3 +208,4 @@
 - 2019-02-21: Update guide
 - 2019-10-24: Update guide
 - 2019-11-14: Expand section
+- 2019-04-06: Typo fix
