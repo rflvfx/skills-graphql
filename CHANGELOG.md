@@ -211,3 +211,4 @@
 - 2019-04-06: Typo fix
 - 2019-11-19: Review content
 - 2019-07-25: Small fix
+- 2019-04-20: Add note
