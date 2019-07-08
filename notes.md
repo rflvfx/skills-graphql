@@ -66,3 +66,4 @@
 - 2019-05-13: Review content
 - 2019-01-13: Expand section
 - 2019-01-10: Update guide
+- 2019-07-08: Refine text
