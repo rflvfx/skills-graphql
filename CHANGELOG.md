@@ -225,3 +225,4 @@
 - 2019-06-16: Add remark
 - 2019-12-01: Improve docs
 - 2019-10-10: Fix example
+- 2019-07-17: Expand section
