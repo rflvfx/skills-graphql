@@ -1,2 +1,3 @@
 - 2015-09-15: Add resource link (skills-graphql)
 - 2017-06-10: Improve explanation (skills-graphql)
+- 2019-07-18: Fix typo in docs (skills-graphql)
