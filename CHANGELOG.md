@@ -10,3 +10,4 @@
 - 2017-10-22: Document cache hints
 - 2018-03-26: Update pagination cursors reference
 - 2018-06-08: Review type extensions section
+- 2019-07-21: Review field resolvers section
