@@ -229,3 +229,4 @@
 - 2019-07-05: Minor update
 - 2019-06-27: Adjust content
 - 2019-08-02: Add note
+- 2019-08-11: Update notes
