@@ -217,3 +217,4 @@
 - 2019-04-17: Adjust content
 - 2019-05-19: Add note
 - 2019-09-25: Add note
+- 2019-08-23: Add note
