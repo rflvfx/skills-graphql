@@ -61,3 +61,4 @@
 - 2019-04-24: Polish docs
 - 2019-08-25: Expand section
 - 2019-09-26: Minor update
+- 2019-09-28: Clarify section
