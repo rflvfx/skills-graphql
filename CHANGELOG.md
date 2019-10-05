@@ -11,3 +11,4 @@
 - 2018-03-26: Update pagination cursors reference
 - 2018-06-08: Review type extensions section
 - 2019-07-21: Review field resolvers section
+- 2019-10-05: Expand input validation docs
