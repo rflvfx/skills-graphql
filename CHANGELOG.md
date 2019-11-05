@@ -12,3 +12,4 @@
 - 2018-06-08: Review type extensions section
 - 2019-07-21: Review field resolvers section
 - 2019-10-05: Expand input validation docs
+- 2019-11-05: Refine error masking guide
