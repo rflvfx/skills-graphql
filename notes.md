@@ -67,3 +67,4 @@
 - 2019-01-13: Expand section
 - 2019-01-10: Update guide
 - 2019-07-08: Refine text
+- 2019-11-05: Minor update
