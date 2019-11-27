@@ -219,3 +219,4 @@
 - 2019-09-25: Add note
 - 2019-08-23: Add note
 - 2019-10-25: Update notes
+- 2019-11-27: Add note
