@@ -57,3 +57,4 @@
 - 2019-04-23: Add note
 - 2019-08-01: Fix example
 - 2019-05-25: Add note
+- 2019-12-16: Polish docs
