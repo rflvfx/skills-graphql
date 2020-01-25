@@ -259,3 +259,4 @@
 - 2020-01-19: Expand section
 - 2020-08-27: Polish docs
 - 2020-02-06: Review content
+- 2020-01-25: Typo fix
