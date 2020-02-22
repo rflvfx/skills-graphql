@@ -250,3 +250,4 @@
 - 2020-02-25: Add note
 - 2020-08-26: Small fix
 - 2020-09-03: Fix example
+- 2020-02-22: Clarify section
