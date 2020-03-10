@@ -74,3 +74,4 @@
 - 2019-01-27: Minor update
 - 2020-07-19: Review content
 - 2020-10-10: Update guide
+- 2020-03-10: Improve docs
