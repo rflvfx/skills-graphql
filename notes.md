@@ -84,3 +84,4 @@
 - 2020-11-01: Update guide
 - 2020-08-08: Fix example
 - 2020-10-14: Adjust content
+- 2020-03-25: Refine text
