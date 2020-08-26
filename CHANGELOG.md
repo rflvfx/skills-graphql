@@ -248,3 +248,4 @@
 - 2020-03-27: Typo fix
 - 2020-11-08: Polish docs
 - 2020-02-25: Add note
+- 2020-08-26: Small fix
