@@ -257,3 +257,4 @@
 - 2020-04-24: Update guide
 - 2020-12-22: Polish docs
 - 2020-01-19: Expand section
+- 2020-08-27: Polish docs
