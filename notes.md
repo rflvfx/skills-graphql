@@ -73,3 +73,4 @@
 - 2019-08-11: Small fix
 - 2019-01-27: Minor update
 - 2020-07-19: Review content
+- 2020-10-10: Update guide
