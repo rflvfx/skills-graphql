@@ -246,3 +246,4 @@
 - 2020-12-04: Review content
 - 2020-05-03: Clarify section
 - 2020-03-27: Typo fix
+- 2020-11-08: Polish docs
