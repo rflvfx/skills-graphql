@@ -243,3 +243,4 @@
 - 2020-11-25: Adjust content
 - 2020-09-09: Add detail
 - 2020-02-12: Adjust content
+- 2020-12-04: Review content
