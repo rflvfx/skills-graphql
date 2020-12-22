@@ -255,3 +255,4 @@
 - 2020-01-25: Fix example
 - 2020-09-12: Small fix
 - 2020-04-24: Update guide
+- 2020-12-22: Polish docs
