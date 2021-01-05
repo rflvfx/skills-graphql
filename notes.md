@@ -91,3 +91,4 @@
 - 2021-05-28: Add remark
 - 2021-11-26: Update guide
 - 2021-06-26: Expand section
+- 2021-01-05: Add detail
