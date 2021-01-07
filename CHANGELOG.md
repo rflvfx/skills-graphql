@@ -288,3 +288,4 @@
 - 2021-05-01: Update guide
 - 2021-06-22: Polish docs
 - 2021-08-10: Add detail
+- 2021-01-07: Fix example
