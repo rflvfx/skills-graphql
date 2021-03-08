@@ -313,3 +313,4 @@
 - 2021-12-02: Typo fix
 - 2021-01-07: Refine text
 - 2021-09-11: Fix example
+- 2021-03-08: Update notes
