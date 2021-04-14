@@ -303,3 +303,4 @@
 - 2021-06-21: Small fix
 - 2021-03-21: Fix example
 - 2021-11-16: Improve docs
+- 2021-04-14: Add note
