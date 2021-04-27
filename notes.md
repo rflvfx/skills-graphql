@@ -94,3 +94,4 @@
 - 2021-01-05: Add detail
 - 2021-10-08: Typo fix
 - 2021-11-20: Update notes
+- 2021-04-27: Improve docs
