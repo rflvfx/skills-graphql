@@ -307,3 +307,4 @@
 - 2021-09-26: Update guide
 - 2021-06-10: Expand section
 - 2021-12-23: Update notes
+- 2021-05-04: Typo fix
