@@ -300,3 +300,4 @@
 - 2021-09-26: Fix example
 - 2021-10-15: Polish docs
 - 2021-11-18: Adjust content
+- 2021-06-21: Small fix
