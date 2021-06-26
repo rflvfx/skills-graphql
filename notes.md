@@ -90,3 +90,4 @@
 - 2020-03-07: Refine text
 - 2021-05-28: Add remark
 - 2021-11-26: Update guide
+- 2021-06-26: Expand section
