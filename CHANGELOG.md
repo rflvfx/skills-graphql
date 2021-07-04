@@ -25,3 +25,4 @@
 - 2025-10-26: Improve cache hints coverage
 - 2025-12-11: Add introspection control notes
 - 2020-05-16: Expand depth limiting docs
+- 2021-07-04: Refine field resolvers guide
