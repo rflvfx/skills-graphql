@@ -96,3 +96,4 @@
 - 2021-11-20: Update notes
 - 2021-04-27: Improve docs
 - 2021-10-25: Minor update
+- 2021-07-19: Update guide
