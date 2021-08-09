@@ -26,3 +26,4 @@
 - 2025-12-11: Add introspection control notes
 - 2020-05-16: Expand depth limiting docs
 - 2021-07-04: Refine field resolvers guide
+- 2021-08-09: Improve input validation coverage
