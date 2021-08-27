@@ -99,3 +99,4 @@
 - 2021-07-19: Update guide
 - 2021-08-17: Improve docs
 - 2021-04-02: Update guide
+- 2021-08-27: Polish docs
