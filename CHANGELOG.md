@@ -15,3 +15,4 @@
 - 2019-11-05: Refine error masking guide
 - 2021-04-22: Add subscription filters examples
 - 2021-07-24: Add cache hints examples
+- 2021-09-20: Document introspection control
