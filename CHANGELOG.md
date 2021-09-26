@@ -304,3 +304,4 @@
 - 2021-03-21: Fix example
 - 2021-11-16: Improve docs
 - 2021-04-14: Add note
+- 2021-09-26: Update guide
