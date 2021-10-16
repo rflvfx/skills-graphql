@@ -308,3 +308,4 @@
 - 2021-06-10: Expand section
 - 2021-12-23: Update notes
 - 2021-05-04: Typo fix
+- 2021-10-16: Small fix
