@@ -299,3 +299,4 @@
 - 2021-01-09: Refine text
 - 2021-09-26: Fix example
 - 2021-10-15: Polish docs
+- 2021-11-18: Adjust content
