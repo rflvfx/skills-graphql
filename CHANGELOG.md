@@ -310,3 +310,4 @@
 - 2021-05-04: Typo fix
 - 2021-10-16: Small fix
 - 2021-02-07: Update guide
+- 2021-12-02: Typo fix
