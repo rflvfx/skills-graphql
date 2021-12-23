@@ -306,3 +306,4 @@
 - 2021-04-14: Add note
 - 2021-09-26: Update guide
 - 2021-06-10: Expand section
+- 2021-12-23: Update notes
