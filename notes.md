@@ -113,3 +113,4 @@
 - 2022-10-23: Review content
 - 2022-10-08: Add remark
 - 2022-01-10: Add detail
+- 2022-01-07: Adjust content
