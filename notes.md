@@ -112,3 +112,4 @@
 - 2022-10-26: Update notes
 - 2022-10-23: Review content
 - 2022-10-08: Add remark
+- 2022-01-10: Add detail
