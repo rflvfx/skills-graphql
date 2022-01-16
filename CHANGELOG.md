@@ -325,3 +325,4 @@
 - 2022-06-19: Add note
 - 2022-12-03: Update guide
 - 2022-11-01: Add remark
+- 2022-01-16: Polish docs
