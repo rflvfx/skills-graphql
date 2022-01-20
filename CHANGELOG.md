@@ -319,3 +319,4 @@
 - 2021-05-20: Typo fix
 - 2022-02-28: Add detail
 - 2022-01-02: Expand section
+- 2022-01-20: Update guide
