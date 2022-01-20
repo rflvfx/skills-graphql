@@ -336,3 +336,4 @@
 - 2022-10-03: Review content
 - 2022-05-03: Clarify section
 - 2022-12-27: Add note
+- 2022-01-20: Polish docs
