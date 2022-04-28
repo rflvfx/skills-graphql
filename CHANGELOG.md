@@ -27,3 +27,4 @@
 - 2020-05-16: Expand depth limiting docs
 - 2021-07-04: Refine field resolvers guide
 - 2021-08-09: Improve input validation coverage
+- 2022-04-28: Add schema stitching examples
