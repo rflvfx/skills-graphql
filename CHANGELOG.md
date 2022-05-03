@@ -334,3 +334,4 @@
 - 2022-03-15: Refine text
 - 2022-12-05: Improve docs
 - 2022-10-03: Review content
+- 2022-05-03: Clarify section
