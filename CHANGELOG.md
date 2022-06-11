@@ -339,3 +339,4 @@
 - 2022-01-20: Polish docs
 - 2022-03-11: Fix example
 - 2022-11-02: Update notes
+- 2022-06-11: Add remark
