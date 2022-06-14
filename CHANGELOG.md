@@ -348,3 +348,4 @@
 - 2022-12-24: Add note
 - 2022-12-16: Update guide
 - 2022-10-24: Update guide
+- 2022-06-14: Typo fix
