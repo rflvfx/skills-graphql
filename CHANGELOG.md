@@ -322,3 +322,4 @@
 - 2022-01-20: Update guide
 - 2022-03-01: Minor update
 - 2022-08-22: Improve docs
+- 2022-06-19: Add note
