@@ -353,3 +353,4 @@
 - 2022-04-24: Update notes
 - 2022-09-26: Fix example
 - 2022-04-11: Adjust content
+- 2022-07-02: Update guide
