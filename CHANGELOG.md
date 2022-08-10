@@ -329,3 +329,4 @@
 - 2022-08-06: Expand section
 - 2022-02-04: Small fix
 - 2022-02-03: Update notes
+- 2022-08-10: Add detail
