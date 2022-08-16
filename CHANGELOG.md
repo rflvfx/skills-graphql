@@ -330,3 +330,4 @@
 - 2022-02-04: Small fix
 - 2022-02-03: Update notes
 - 2022-08-10: Add detail
+- 2022-08-16: Update notes
