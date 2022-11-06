@@ -114,3 +114,4 @@
 - 2022-10-08: Add remark
 - 2022-01-10: Add detail
 - 2022-01-07: Adjust content
+- 2022-11-06: Adjust content
