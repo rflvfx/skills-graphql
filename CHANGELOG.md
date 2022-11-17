@@ -16,3 +16,4 @@
 - 2021-04-22: Add subscription filters examples
 - 2021-07-24: Add cache hints examples
 - 2021-09-20: Document introspection control
+- 2022-11-17: Refine query complexity guide
