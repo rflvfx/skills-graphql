@@ -104,3 +104,4 @@
 - 2021-11-16: Add note
 - 2022-12-11: Small fix
 - 2022-04-25: Minor update
+- 2022-11-23: Improve docs
