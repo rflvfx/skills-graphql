@@ -102,3 +102,4 @@
 - 2021-08-27: Polish docs
 - 2021-09-17: Add remark
 - 2021-11-16: Add note
+- 2022-12-11: Small fix
