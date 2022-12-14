@@ -355,3 +355,4 @@
 - 2022-04-11: Adjust content
 - 2022-07-02: Update guide
 - 2022-05-15: Clarify section
+- 2022-12-14: Review content
