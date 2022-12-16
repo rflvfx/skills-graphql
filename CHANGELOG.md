@@ -346,3 +346,4 @@
 - 2022-05-06: Fix example
 - 2022-04-06: Small fix
 - 2022-12-24: Add note
+- 2022-12-16: Update guide
