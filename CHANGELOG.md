@@ -345,3 +345,4 @@
 - 2022-04-17: Update notes
 - 2022-05-06: Fix example
 - 2022-04-06: Small fix
+- 2022-12-24: Add note
