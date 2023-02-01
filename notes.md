@@ -119,3 +119,4 @@
 - 2023-03-20: Clarify section
 - 2023-11-08: Small fix
 - 2023-04-22: Improve docs
+- 2023-02-01: Update notes
