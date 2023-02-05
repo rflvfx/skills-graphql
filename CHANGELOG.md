@@ -370,3 +370,4 @@
 - 2023-09-09: Refine text
 - 2023-07-07: Expand section
 - 2023-02-08: Add remark
+- 2023-02-05: Add note
