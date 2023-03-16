@@ -17,3 +17,4 @@
 - 2021-07-24: Add cache hints examples
 - 2021-09-20: Document introspection control
 - 2022-11-17: Refine query complexity guide
+- 2023-03-16: Refine depth limiting guide
