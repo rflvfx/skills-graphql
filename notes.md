@@ -121,3 +121,4 @@
 - 2023-04-22: Improve docs
 - 2023-02-01: Update notes
 - 2023-12-23: Add note
+- 2023-05-11: Typo fix
