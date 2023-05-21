@@ -115,3 +115,4 @@
 - 2022-01-10: Add detail
 - 2022-01-07: Adjust content
 - 2022-11-06: Adjust content
+- 2023-05-21: Typo fix
