@@ -359,3 +359,4 @@
 - 2022-09-13: Update guide
 - 2022-02-14: Add note
 - 2022-03-04: Review content
+- 2023-10-07: Adjust content
