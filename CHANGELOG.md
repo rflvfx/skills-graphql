@@ -363,3 +363,4 @@
 - 2023-09-17: Improve docs
 - 2023-04-11: Minor update
 - 2023-07-27: Refine text
+- 2023-11-12: Add detail
