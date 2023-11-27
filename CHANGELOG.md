@@ -371,3 +371,4 @@
 - 2023-07-07: Expand section
 - 2023-02-08: Add remark
 - 2023-02-05: Add note
+- 2023-11-27: Adjust content
