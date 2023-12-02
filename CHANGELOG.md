@@ -390,3 +390,4 @@
 - 2023-01-08: Add note
 - 2023-12-19: Adjust content
 - 2023-05-03: Improve docs
+- 2023-12-02: Update notes
