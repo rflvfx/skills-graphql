@@ -29,3 +29,4 @@
 - 2021-08-09: Improve input validation coverage
 - 2022-04-28: Add schema stitching examples
 - 2023-12-09: Update subscription filters reference
+- 2023-12-27: Review batch loading section
