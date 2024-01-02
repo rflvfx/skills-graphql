@@ -435,3 +435,4 @@
 - 2024-07-02: Add note
 - 2024-05-15: Add remark
 - 2024-06-04: Small fix
+- 2024-01-02: Typo fix
