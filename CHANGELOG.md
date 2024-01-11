@@ -423,3 +423,4 @@
 - 2024-09-13: Update notes
 - 2024-06-25: Update guide
 - 2024-12-25: Review content
+- 2024-01-11: Add note
