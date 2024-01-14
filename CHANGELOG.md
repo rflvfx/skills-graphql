@@ -412,3 +412,4 @@
 - 2024-02-28: Expand section
 - 2024-11-26: Expand section
 - 2024-12-28: Update guide
+- 2024-01-14: Clarify section
