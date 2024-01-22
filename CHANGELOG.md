@@ -20,3 +20,4 @@
 - 2023-03-16: Refine depth limiting guide
 - 2023-04-21: Add field resolvers notes
 - 2023-04-22: Refine input validation guide
+- 2024-01-22: Document persisted queries
