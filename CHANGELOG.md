@@ -404,3 +404,4 @@
 - 2024-07-18: Polish docs
 - 2024-06-21: Typo fix
 - 2024-04-04: Minor update
+- 2024-04-04: Small fix
