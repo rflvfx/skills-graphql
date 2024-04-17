@@ -415,3 +415,4 @@
 - 2024-01-14: Clarify section
 - 2024-04-28: Fix example
 - 2024-05-28: Refine text
+- 2024-04-17: Adjust content
