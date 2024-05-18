@@ -134,3 +134,4 @@
 - 2024-07-08: Small fix
 - 2024-04-07: Clarify section
 - 2024-08-03: Add note
+- 2024-05-18: Fix example
