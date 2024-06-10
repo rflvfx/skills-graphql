@@ -30,3 +30,4 @@
 - 2022-04-28: Add schema stitching examples
 - 2023-12-09: Update subscription filters reference
 - 2023-12-27: Review batch loading section
+- 2024-06-10: Add cache hints notes
