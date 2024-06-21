@@ -402,3 +402,4 @@
 - 2024-09-17: Polish docs
 - 2024-08-26: Clarify section
 - 2024-07-18: Polish docs
+- 2024-06-21: Typo fix
