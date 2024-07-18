@@ -401,3 +401,4 @@
 - 2024-01-15: Add note
 - 2024-09-17: Polish docs
 - 2024-08-26: Clarify section
+- 2024-07-18: Polish docs
