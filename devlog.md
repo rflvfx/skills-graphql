@@ -3,3 +3,4 @@
 - 2018-04-01 — Update content
 - 2023-09-14 — Fix examples
 - 2024-05-24 — Small fixes
+- 2024-09-07 — Improve documentation
