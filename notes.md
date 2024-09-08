@@ -139,3 +139,4 @@
 - 2024-04-22: Update guide
 - 2024-07-06: Minor update
 - 2024-04-27: Add remark
+- 2024-09-08: Fix example
