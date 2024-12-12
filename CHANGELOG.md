@@ -418,3 +418,4 @@
 - 2024-04-17: Adjust content
 - 2024-06-18: Fix example
 - 2024-01-16: Fix example
+- 2024-12-12: Update notes
