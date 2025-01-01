@@ -153,3 +153,4 @@
 - 2025-11-04: Minor update
 - 2025-09-24: Typo fix
 - 2025-02-09: Adjust content
+- 2025-01-01: Add note
