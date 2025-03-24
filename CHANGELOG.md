@@ -33,3 +33,4 @@
 - 2024-06-10: Add cache hints notes
 - 2024-08-18: Review introspection control section
 - 2024-12-04: Add mutation design examples
+- 2025-03-24: Refine pagination cursors guide
