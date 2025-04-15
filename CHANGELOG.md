@@ -472,3 +472,4 @@
 - 2025-03-24: Add detail
 - 2025-04-22: Adjust content
 - 2025-10-17: Fix example
+- 2025-04-15: Refine text
