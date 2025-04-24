@@ -475,3 +475,4 @@
 - 2025-04-15: Refine text
 - 2025-11-23: Update guide
 - 2025-11-15: Add detail
+- 2025-04-24: Update guide
