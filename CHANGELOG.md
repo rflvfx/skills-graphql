@@ -444,3 +444,4 @@
 - 2025-08-20: Fix example
 - 2025-07-12: Improve docs
 - 2025-04-19: Add remark
+- 2025-06-23: Update notes
