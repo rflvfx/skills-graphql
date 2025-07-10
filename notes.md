@@ -155,3 +155,4 @@
 - 2025-02-09: Adjust content
 - 2025-01-01: Add note
 - 2025-12-07: Adjust content
+- 2025-07-10: Polish docs
