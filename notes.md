@@ -142,3 +142,4 @@
 - 2024-09-08: Fix example
 - 2024-04-26: Improve docs
 - 2024-12-01: Update notes
+- 2025-07-17: Fix example
