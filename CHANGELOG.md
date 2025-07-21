@@ -34,3 +34,4 @@
 - 2024-08-18: Review introspection control section
 - 2024-12-04: Add mutation design examples
 - 2025-03-24: Refine pagination cursors guide
+- 2025-07-21: Improve type extensions coverage
