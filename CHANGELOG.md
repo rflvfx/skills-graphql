@@ -437,3 +437,4 @@
 - 2024-06-04: Small fix
 - 2024-01-02: Typo fix
 - 2024-08-10: Update notes
+- 2025-07-24: Update notes
