@@ -464,3 +464,4 @@
 - 2025-08-19: Clarify section
 - 2025-09-08: Minor update
 - 2025-03-24: Refine text
+- 2025-08-01: Add remark
