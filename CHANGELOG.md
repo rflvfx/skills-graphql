@@ -450,3 +450,4 @@
 - 2025-04-23: Review content
 - 2025-08-25: Adjust content
 - 2025-08-26: Expand section
+- 2025-08-09: Improve docs
