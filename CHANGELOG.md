@@ -448,3 +448,4 @@
 - 2025-01-05: Review content
 - 2025-09-08: Polish docs
 - 2025-04-23: Review content
+- 2025-08-25: Adjust content
