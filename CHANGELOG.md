@@ -446,3 +446,4 @@
 - 2025-04-19: Add remark
 - 2025-06-23: Update notes
 - 2025-01-05: Review content
+- 2025-09-08: Polish docs
