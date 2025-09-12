@@ -147,3 +147,4 @@
 - 2025-02-17: Small fix
 - 2025-03-19: Fix example
 - 2025-02-10: Add note
+- 2025-09-12: Add detail
