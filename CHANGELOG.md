@@ -466,3 +466,4 @@
 - 2025-03-24: Refine text
 - 2025-08-01: Add remark
 - 2025-04-20: Update guide
+- 2025-09-20: Polish docs
