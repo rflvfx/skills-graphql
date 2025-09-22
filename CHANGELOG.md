@@ -457,3 +457,4 @@
 - 2025-12-21: Improve docs
 - 2025-12-28: Add detail
 - 2025-05-05: Minor update
+- 2025-09-22: Update guide
