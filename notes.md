@@ -151,3 +151,4 @@
 - 2025-01-09: Minor update
 - 2025-04-09: Update guide
 - 2025-11-04: Minor update
+- 2025-09-24: Typo fix
