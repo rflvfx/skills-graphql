@@ -460,3 +460,4 @@
 - 2025-09-22: Update guide
 - 2025-04-08: Review content
 - 2025-03-28: Small fix
+- 2025-10-16: Add detail
