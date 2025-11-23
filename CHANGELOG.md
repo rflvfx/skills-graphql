@@ -473,3 +473,4 @@
 - 2025-04-22: Adjust content
 - 2025-10-17: Fix example
 - 2025-04-15: Refine text
+- 2025-11-23: Update guide
