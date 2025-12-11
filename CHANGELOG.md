@@ -23,3 +23,4 @@
 - 2024-01-22: Document persisted queries
 - 2025-08-11: Add subscription filters notes
 - 2025-10-26: Improve cache hints coverage
+- 2025-12-11: Add introspection control notes
