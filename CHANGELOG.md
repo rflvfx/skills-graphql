@@ -514,3 +514,4 @@
 - 2026-08-07: Minor update
 - 2026-05-02: Minor update
 - 2026-06-08: Add remark
+- 2026-01-08: Update notes
