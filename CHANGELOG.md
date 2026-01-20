@@ -488,3 +488,4 @@
 - 2026-09-22: Polish docs
 - 2026-05-16: Add detail
 - 2026-08-04: Typo fix
+- 2026-01-20: Improve docs
