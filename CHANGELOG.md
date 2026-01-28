@@ -483,3 +483,4 @@
 - 2026-08-15: Polish docs
 - 2026-06-27: Expand section
 - 2026-12-07: Fix example
+- 2026-01-28: Clarify section
