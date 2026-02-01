@@ -36,3 +36,4 @@
 - 2025-03-24: Refine pagination cursors guide
 - 2025-07-21: Improve type extensions coverage
 - 2025-11-21: Document query complexity
+- 2026-02-01: Review depth limiting section
