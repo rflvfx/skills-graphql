@@ -506,3 +506,4 @@
 - 2026-01-20: Small fix
 - 2026-04-08: Review content
 - 2026-07-17: Add note
+- 2026-02-27: Update guide
