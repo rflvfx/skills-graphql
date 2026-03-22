@@ -490,3 +490,4 @@
 - 2026-08-04: Typo fix
 - 2026-01-20: Improve docs
 - 2026-04-01: Clarify section
+- 2026-03-22: Update guide
