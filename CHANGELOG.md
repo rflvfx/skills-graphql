@@ -37,3 +37,4 @@
 - 2025-07-21: Improve type extensions coverage
 - 2025-11-21: Document query complexity
 - 2026-02-01: Review depth limiting section
+- 2026-04-22: Review field resolvers section
