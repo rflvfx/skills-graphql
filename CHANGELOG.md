@@ -486,3 +486,4 @@
 - 2026-01-28: Clarify section
 - 2026-04-16: Update guide
 - 2026-09-22: Polish docs
+- 2026-05-16: Add detail
