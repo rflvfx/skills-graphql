@@ -478,3 +478,4 @@
 - 2025-04-24: Update guide
 - 2025-06-15: Refine text
 - 2026-09-26: Minor update
+- 2026-05-16: Clarify section
