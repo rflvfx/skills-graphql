@@ -481,3 +481,4 @@
 - 2026-05-16: Clarify section
 - 2026-09-19: Adjust content
 - 2026-08-15: Polish docs
+- 2026-06-27: Expand section
