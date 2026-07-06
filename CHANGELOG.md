@@ -496,3 +496,4 @@
 - 2026-02-13: Small fix
 - 2026-03-23: Update notes
 - 2026-02-09: Update guide
+- 2026-07-06: Refine text
