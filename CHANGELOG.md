@@ -505,3 +505,4 @@
 - 2026-01-04: Polish docs
 - 2026-01-20: Small fix
 - 2026-04-08: Review content
+- 2026-07-17: Add note
