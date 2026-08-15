@@ -480,3 +480,4 @@
 - 2026-09-26: Minor update
 - 2026-05-16: Clarify section
 - 2026-09-19: Adjust content
+- 2026-08-15: Polish docs
