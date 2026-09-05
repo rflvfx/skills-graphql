@@ -501,3 +501,4 @@
 - 2026-11-25: Small fix
 - 2026-04-07: Small fix
 - 2026-06-25: Add remark
+- 2026-09-05: Update notes
