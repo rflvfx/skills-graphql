@@ -1,0 +1,8 @@
+# query.graphql
+query {
+  usuario(id: 1) {
+    nome
+    email
+    habilidades
+  }
+}
