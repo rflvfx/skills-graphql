@@ -6,5 +6,6 @@ const typeDefs = gql`
 const resolvers = {
   Query: { hello: () => 'Ola GraphQL', users: () => [{ id: 1, nome: 'Rafael' }] }
 };
+const PORT = process.env.PORT || 4000;
 const server = new ApolloServer({ typeDefs, resolvers });
-server.listen().then(({ url }) => console.log(`Servidor em ${url}`));
+server.listen({ port: PORT }).then(({ url }) => console.log(`Servidor em ${url}`));
