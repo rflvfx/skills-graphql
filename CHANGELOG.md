@@ -510,3 +510,4 @@
 - 2026-07-04: Add note
 - 2026-07-20: Adjust content
 - 2026-11-13: Add detail
+- 2026-09-22: Update guide
